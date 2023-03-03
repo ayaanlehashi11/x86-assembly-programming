@@ -1,4 +1,4 @@
-;unix-linux syscalls
+;syscall example
 
 section .data
    userMsg db "Please enter a number"
