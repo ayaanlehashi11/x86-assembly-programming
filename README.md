@@ -1,15 +1,10 @@
 # Topics
 x86 assembly programming
-## Requirements
+## Requirements && tools
 
-## assembly programming history
+- gcc
+- nasm
+- any OS
 
-## syntax
+## what is assembly needed for?
 
-```assembly
-   mov	edx,len
-   mov	ecx,msg
-   mov	ebx,1
-   mov	eax,4
-   int	0x80 
-```
