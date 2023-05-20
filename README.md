@@ -1,6 +1,6 @@
 # Topics
 x86 assembly programming
-## Requirements && tools
+## Requirements & tools
 
 - gcc
 - nasm
